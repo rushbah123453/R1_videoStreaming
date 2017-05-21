@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Round1</string>
+
+    <string-array name="titles">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+        <item>Item 8</item>
+        <item>Item 9</item>
+    </string-array>
+
+    <string-array name="description">
+       <item>Desp 1</item>
+       <item>Desp 2</item>
+       <item>Desp 3</item>
+       <item>Desp 4</item>
+       <item>Desp 5</item>
+       <item>Desp 6</item>
+       <item>Desp 7</item>
+       <item>Desp 8</item>
+       <item>Desp 9</item>
+    </string-array>
+</resources>
